@@ -1,3 +1,12 @@
+/**
+* Engenharia de Software Moderna 
+* Prof. Marco Tulio Valente
+* 
+* Roteiro Prático sobre refactoring
+* 
+* Classes iniciais do sistema de videolocadora
+*
+*/
 import java.util.Enumeration;
 import java.util.Vector;
 
